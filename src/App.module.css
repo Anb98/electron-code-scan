@@ -1,0 +1,27 @@
+.title {
+  color: white;
+  text-align: center;
+}
+
+.content {
+  padding:1em;
+  display: flex;
+}
+
+.layout {
+  height: 100vh ;
+}
+
+.footer {
+  text-align: center;
+}
+
+.logo {
+  position: absolute;
+  top:1em;
+  height: 2em;
+}
+
+.header {
+  position: relative;
+}
