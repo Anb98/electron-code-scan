@@ -1,0 +1,11 @@
+.content {
+    flex: 1;
+}
+
+.checkbox {
+    margin-left: 1em !important;
+}
+
+.footer{ 
+    margin-top: 1em;
+}
